@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-javascript",
-  "version": "2.3.2",
+  "version": "3.0.2",
   "main": "./bootstrap.js",
   "dependencies": {
 	"jquery": ">=1.8.3 <2.1.0"
